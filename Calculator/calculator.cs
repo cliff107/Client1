@@ -3,8 +3,6 @@ using System.Linq;
 using System.Collections.Generic;
 
 
-namespace CSharpShell;
-
 public class Calculator
 {
 	static void Main(string[] args)
